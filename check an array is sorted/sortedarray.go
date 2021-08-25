@@ -20,4 +20,5 @@ func checksortedarray(arr []int){
 
 func main(){
    checksortedarray([]int{1, 3, 5, 6, 7, 8})
+   
 }
