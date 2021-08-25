@@ -12,6 +12,7 @@ func main() {
 }
 func revstring(str string) string{
 	revs:= strings.Split(str,"")
+	fmt.Print(revs)
 	data:= ""
 	for i:=len(str)-1;i>=0;i--{
 		data+=revs[i]
