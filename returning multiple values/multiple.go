@@ -14,3 +14,4 @@ func nums(num1, num2 int) (int, int) {
 	return sum, product
 
 }
+
